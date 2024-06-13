@@ -1,8 +1,8 @@
 <h1>Bem vindo, me chamo Israel Messias!</h1>
 
 - 🔭 Atualmente trabalho como Analista de Implantação na [E-Trust](https://www.e-trust.com.br/).
-- 🌱 Estudo ADS na [PUC](https://www.pucminas.br/destaques/Paginas/default.aspx).
-- 📫 Você pode entrar em contato comigo através do [e-mail](mailto:israelmessias96@gmail.com) ou no meu [linkedin](https://www.linkedin.com/in/israelmessias96/).
+- 🌱 Estudo Análise e Desenvolvimento de sistemas na [PUC](https://www.pucminas.br/destaques/Paginas/default.aspx).
+- 📫 Você pode entrar em contato comigo através do meu [e-mail](mailto:israelmessias96@gmail.com) ou no meu [linkedin](https://www.linkedin.com/in/israelmessias96/).
 - 🔥 Saiba um pouco mais sobre mim e meus trabalhos no meu site: www.imgm.dev.br
   
 <h2>Habilidades e Tecnologias</h2>
