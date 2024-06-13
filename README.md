@@ -1,34 +1,34 @@
-<h1>Bem vindo, me chamo Israel Messias!<h1>
+<h1>Bem vindo, me chamo Israel Messias!</h1>
 
 - 🔭 Atualmente trabalho como Analista de Implantação na [E-Trust](https://www.e-trust.com.br/).
 - 🌱 Estudo ADS na [PUC](https://www.pucminas.br/destaques/Paginas/default.aspx).
 - 📫 Você pode entrar em contato comigo através do [e-mail](mailto:israelmessias96@gmail.com) ou no meu [linkedin](https://www.linkedin.com/in/israelmessias96/).
 - 🔥 Saiba um pouco mais sobre mim e meus trabalhos no meu site: www.imgm.dev.br
   
-<h2>Habilidades e Tecnologias<h2>
-<h3>Desenvolvimento Web:<h3>
+<h2>Habilidades e Tecnologias</h2>
+<h3>Desenvolvimento Web:</h3>
  
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
   <br>
-<h3>Desenvolvimento Backend:<h3>
+<h3>Desenvolvimento Backend:</h3>
   
 - C#
 - ASP.NET
   <br>
-<h3>Bancos de Dados:<h3><br>
+<h3>Bancos de Dados:</h3>
   
 - MySQL
 - MariaDB
   <br>
-<h3>Protocolos de Comunicação:<h3>
+<h3>Protocolos de Comunicação:</h3>
   
 - REST
 - SOAP
   <br>
-<h3>Sistemas Operacionais:<h3>
+<h3>Sistemas Operacionais:</h3>
   
 - Linux RED HAT
 - Windows
