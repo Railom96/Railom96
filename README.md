@@ -1,4 +1,4 @@
-### Bem vindo, me chamo Israel Messias!
+|### Bem vindo, me chamo Israel Messias!
 
 - 🔭 Atualmente trabalho como Analista de Implantação na [E-Trust](https://www.e-trust.com.br/).
 - 🌱 Estudo ADS na PUC.
@@ -11,6 +11,7 @@
 
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=railom96&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<br>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railom96&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
