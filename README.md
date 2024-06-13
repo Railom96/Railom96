@@ -1,4 +1,4 @@
-<h1>Bem vindo, me chamo Israel Messias!</h1>
+<h1>Olá, eu me chamo Israel Messias!</h1>
 
 - 🔭 Atualmente trabalho como Analista de Implantação na [E-Trust](https://www.e-trust.com.br/).
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas na [PUC](https://www.pucminas.br/destaques/Paginas/default.aspx).
