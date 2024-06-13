@@ -10,8 +10,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="200px" src="https://github-readme-stats.vercel.app/api?username=railom96&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<br>
-<img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railom96&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="390px" height="200px" src="https://github-readme-stats.vercel.app/api?username=railom96&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="390px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railom96&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
