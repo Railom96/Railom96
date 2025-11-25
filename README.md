@@ -30,7 +30,7 @@
   <br>
 <h3>Sistemas Operacionais:</h3>
   
-- Linux RED HAT
+- Linux 
 - Windows
 <br>
 
