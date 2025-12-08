@@ -7,8 +7,7 @@
 - 🔥 Saiba um pouco mais sobre mim e meus trabalhos no meu site: www.imgm.dev.br (Fora do AR no momento)
   
 <h2>Habilidades e Tecnologias</h2>
-<h3>Desenvolvimento Web:</h3>
- 
+
 - Git
 - GitHub
 - JavaScript
