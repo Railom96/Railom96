@@ -5,7 +5,7 @@
 - 📫 Você pode entrar em contato comigo através do meu [e-mail](mailto:israelmessias96@gmail.com) ou no meu [linkedin](https://www.linkedin.com/in/israelmessias96/).
 - Minhas redes sociais: [Instagram](https://www.instagram.com/imgm.dev/), [x.com](https://x.com/imgmpontodev).
 - 🔥 Saiba um pouco mais sobre mim e meu currículo no meu site pessoal: www.imgm.dev.br (Em contrução)
-- 💻 Saiba sobre meus projetos em: imgmprojects.dev.br (Em construção)
+- 💻 Saiba sobre meus projetos em: www.imgmprojects.dev.br (Em construção)
   
 <h2>Habilidades e Tecnologias</h2>
 
