@@ -75,32 +75,6 @@ I also share technical content about Identity, Authentication, Authorization and
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Tweet Cleaner
-
-CLI application that reads the exported X archive and permanently deletes tweets while minimizing X API usage.
-
-**Python • Tweepy • Docker**
-
----
-
-### 🔹 AlunoSync
-
-School Management System developed with ASP.NET MVC and Entity Framework Core.
-
-**C# • ASP.NET MVC • SQL Server**
-
----
-
-### 🔹 Voz da População
-
-Citizen request management platform.
-
-**ASP.NET MVC**
-
----
-
 ### 🔹 Personal Website
 
 Technical blog and portfolio.
@@ -143,18 +117,6 @@ https://x.com/imgmpontodev
 📧 Email
 
 israelmessias96@gmail.com
-
----
-
-## 📈 GitHub Analytics
-
-<p align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=railom96&show_icons=true&theme=vision-friendly-dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railom96&layout=compact&theme=vision-friendly-dark"/>
-
-</p>
 
 ---
 
@@ -226,26 +188,6 @@ Também compartilho conteúdos sobre Identidade Digital, Autenticação, Autoriz
 
 ---
 
-## 📌 Projetos em destaque
-
-### 🔹 Tweet Cleaner
-
-Ferramenta CLI que utiliza o arquivo exportado da conta do X para excluir tweets consumindo o mínimo possível da API.
-
----
-
-### 🔹 AlunoSync
-
-Sistema de gestão escolar desenvolvido em ASP.NET MVC.
-
----
-
-### 🔹 Voz da População
-
-Sistema para gerenciamento de demandas da população.
-
----
-
 ### 🔹 Meu Site
 
 Portfólio e blog técnico.
@@ -290,12 +232,3 @@ israelmessias96@gmail.com
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=railom96&show_icons=true&theme=vision-friendly-dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railom96&layout=compact&theme=vision-friendly-dark"/>
-
-</p>
